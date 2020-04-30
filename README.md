@@ -7,8 +7,6 @@
 <a href="https://repology.org/metapackage/neofetch"><img src="https://repology.org/badge/tiny-repos/neofetch.svg" alt="Packaging status"></a>
 </p>
 
-<img src="https://i.imgur.com/GFmC5Ad.png" alt="neofetch" align="right" height="240px">
-
 Neofetch-slim is a slimmed down version of Neofetch, a command-line system information tool written in `bash 3.2+`. Neofetch-slim displays information about your operating system, software and hardware in an aesthetic and visually pleasing way.
 
 The information by default is displayed alongside your operating system's logo. You can further configure Neofetch-slim to instead use an image, a custom ASCII file, your wallpaper or nothing at all.
